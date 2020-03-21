@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimaryDark">@color/Blue</item> <!-- Status bar color-->
+        <item name="android:statusBarColor" tools:targetApi="lollipop">@color/Blue</item>
+        <item name="colorAccent">@color/Blue</item> <!-- UI controls color-->
+    </style>
+
+</resources>

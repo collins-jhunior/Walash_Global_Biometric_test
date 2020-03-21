@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Biometric_test</string>
+    <string name="please_select_a_biometric_verification_type_from_the_drop_down_box_below_to_proceed">Please select a biometric verification type from the drop down box below to proceed.</string>
+    <string name="description_appears_here">Description appears here</string>
+    <string name="finger_print_authentication">Finger Print Authentication</string>
+    <string name="authenticate">Authenticate</string>
+    <string name="begin">Begin</string>
+    <string name="biometric_authentication">Biometric Authentication</string>
+</resources>
